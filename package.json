@@ -1,0 +1,15 @@
+{
+  "name": "slack-bot-example",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.10.0",
+    "ts-node": "^10.7.0"
+  }
+}
