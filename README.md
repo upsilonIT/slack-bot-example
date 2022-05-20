@@ -1,4 +1,4 @@
-# slack-bot-example
+# 🤖 slack-bot-example
 
 This code was built by Upsilon for a study article on [how to make a Slack bot](https://www.upsilonit.com/blog/create-a-slack-bot-with-typescript-in-3-steps).
 
